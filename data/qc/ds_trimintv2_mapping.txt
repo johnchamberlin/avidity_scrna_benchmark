@@ -1,0 +1,45 @@
+AG1DStrimint_bco48/AG1DStrimint.Log.final.out:                          Number of input reads |	998627
+AG1DStrimint_bco48/AG1DStrimint.Log.final.out:                        Uniquely mapped reads % |	89.60%
+AG1DStrimint_bco48/AG1DStrimint.Log.final.out:             % of reads mapped to multiple loci |	9.33%
+AG1DStrimint_paired47/AG1DStrimint.Log.final.out:                          Number of input reads |	998627
+AG1DStrimint_paired47/AG1DStrimint.Log.final.out:                        Uniquely mapped reads % |	94.19%
+AG1DStrimint_paired47/AG1DStrimint.Log.final.out:             % of reads mapped to multiple loci |	3.25%
+AG1DStrimint_single/AG1DStrimint.Log.final.out:                          Number of input reads |	998627
+AG1DStrimint_single/AG1DStrimint.Log.final.out:                        Uniquely mapped reads % |	93.37%
+AG1DStrimint_single/AG1DStrimint.Log.final.out:             % of reads mapped to multiple loci |	4.85%
+AG2DStrimint_bco48/AG2DStrimint.Log.final.out:                          Number of input reads |	976641
+AG2DStrimint_bco48/AG2DStrimint.Log.final.out:                        Uniquely mapped reads % |	85.56%
+AG2DStrimint_bco48/AG2DStrimint.Log.final.out:             % of reads mapped to multiple loci |	12.30%
+AG2DStrimint_paired47/AG2DStrimint.Log.final.out:                          Number of input reads |	976641
+AG2DStrimint_paired47/AG2DStrimint.Log.final.out:                        Uniquely mapped reads % |	90.93%
+AG2DStrimint_paired47/AG2DStrimint.Log.final.out:             % of reads mapped to multiple loci |	7.02%
+AG2DStrimint_single/AG2DStrimint.Log.final.out:                          Number of input reads |	976641
+AG2DStrimint_single/AG2DStrimint.Log.final.out:                        Uniquely mapped reads % |	89.84%
+AG2DStrimint_single/AG2DStrimint.Log.final.out:             % of reads mapped to multiple loci |	7.95%
+AG3DStrimint_bco48/AG3DStrimint.Log.final.out:                          Number of input reads |	986291
+AG3DStrimint_bco48/AG3DStrimint.Log.final.out:                        Uniquely mapped reads % |	88.50%
+AG3DStrimint_bco48/AG3DStrimint.Log.final.out:             % of reads mapped to multiple loci |	9.74%
+AG3DStrimint_paired47/AG3DStrimint.Log.final.out:                          Number of input reads |	986291
+AG3DStrimint_paired47/AG3DStrimint.Log.final.out:                        Uniquely mapped reads % |	93.20%
+AG3DStrimint_paired47/AG3DStrimint.Log.final.out:             % of reads mapped to multiple loci |	4.95%
+AG3DStrimint_single/AG3DStrimint.Log.final.out:                          Number of input reads |	986291
+AG3DStrimint_single/AG3DStrimint.Log.final.out:                        Uniquely mapped reads % |	92.07%
+AG3DStrimint_single/AG3DStrimint.Log.final.out:             % of reads mapped to multiple loci |	5.73%
+AG4DStrimint_bco48/AG4DStrimint.Log.final.out:                          Number of input reads |	960120
+AG4DStrimint_bco48/AG4DStrimint.Log.final.out:                        Uniquely mapped reads % |	87.92%
+AG4DStrimint_bco48/AG4DStrimint.Log.final.out:             % of reads mapped to multiple loci |	9.81%
+AG4DStrimint_paired47/AG4DStrimint.Log.final.out:                          Number of input reads |	960120
+AG4DStrimint_paired47/AG4DStrimint.Log.final.out:                        Uniquely mapped reads % |	91.15%
+AG4DStrimint_paired47/AG4DStrimint.Log.final.out:             % of reads mapped to multiple loci |	5.91%
+AG4DStrimint_single/AG4DStrimint.Log.final.out:                          Number of input reads |	960120
+AG4DStrimint_single/AG4DStrimint.Log.final.out:                        Uniquely mapped reads % |	90.55%
+AG4DStrimint_single/AG4DStrimint.Log.final.out:             % of reads mapped to multiple loci |	6.67%
+AG5DStrimint_bco48/AG5DStrimint.Log.final.out:                          Number of input reads |	984781
+AG5DStrimint_bco48/AG5DStrimint.Log.final.out:                        Uniquely mapped reads % |	88.43%
+AG5DStrimint_bco48/AG5DStrimint.Log.final.out:             % of reads mapped to multiple loci |	9.73%
+AG5DStrimint_paired47/AG5DStrimint.Log.final.out:                          Number of input reads |	984781
+AG5DStrimint_paired47/AG5DStrimint.Log.final.out:                        Uniquely mapped reads % |	92.71%
+AG5DStrimint_paired47/AG5DStrimint.Log.final.out:             % of reads mapped to multiple loci |	4.91%
+AG5DStrimint_single/AG5DStrimint.Log.final.out:                          Number of input reads |	984781
+AG5DStrimint_single/AG5DStrimint.Log.final.out:                        Uniquely mapped reads % |	92.14%
+AG5DStrimint_single/AG5DStrimint.Log.final.out:             % of reads mapped to multiple loci |	6.07%

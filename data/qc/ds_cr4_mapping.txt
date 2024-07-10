@@ -1,0 +1,15 @@
+AG1DS_single_null/AG1DS.Log.final.out:                          Number of input reads |	1000000
+AG1DS_single_null/AG1DS.Log.final.out:                        Uniquely mapped reads % |	92.85%
+AG1DS_single_null/AG1DS.Log.final.out:             % of reads mapped to multiple loci |	4.78%
+AG2DS_single_null/AG2DS.Log.final.out:                          Number of input reads |	1000000
+AG2DS_single_null/AG2DS.Log.final.out:                        Uniquely mapped reads % |	77.96%
+AG2DS_single_null/AG2DS.Log.final.out:             % of reads mapped to multiple loci |	6.03%
+AG3DS_single_null/AG3DS.Log.final.out:                          Number of input reads |	1000000
+AG3DS_single_null/AG3DS.Log.final.out:                        Uniquely mapped reads % |	86.09%
+AG3DS_single_null/AG3DS.Log.final.out:             % of reads mapped to multiple loci |	5.16%
+AG4DS_single_null/AG4DS.Log.final.out:                          Number of input reads |	1000000
+AG4DS_single_null/AG4DS.Log.final.out:                        Uniquely mapped reads % |	79.42%
+AG4DS_single_null/AG4DS.Log.final.out:             % of reads mapped to multiple loci |	5.15%
+AG5DS_single_null/AG5DS.Log.final.out:                          Number of input reads |	1000000
+AG5DS_single_null/AG5DS.Log.final.out:                        Uniquely mapped reads % |	88.32%
+AG5DS_single_null/AG5DS.Log.final.out:             % of reads mapped to multiple loci |	5.58%
