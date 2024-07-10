@@ -11,3 +11,6 @@ Please contact the authors if data are not yet available through GEO.
 
 Scraps installation is described at https://github.com/rnabioco/scraps
 PolyApipe is available at https://github.com/MonashBioinformaticsPlatform/polyApipe
+
+
+Our STAR and cutadapt parameters are available in the 'scripts' folder
